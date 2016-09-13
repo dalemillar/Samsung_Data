@@ -1,18 +1,3 @@
-# Week_3_Project
-All the files needed for the Week 3 Project - Getting and Cleaning Data
-
-#Preparation
-
-Download the files and sub-directories (test and train) into your working directory.
-
-#Instructions
-
-Run the script run_analysis.R in R Studio.
-
-#How the script works
-
-There follows a blow by blow description of how the script runs:
-
 #GetData Project Script 
 #Dale Millar - Riyadh, Saudi Arabia
 #Set the working directory
